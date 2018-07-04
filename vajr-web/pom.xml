@@ -8,6 +8,11 @@
   <artifactId>vajr-web</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
+  <parent>
+    <groupId>com.baizhi</groupId>
+    <artifactId>vajr-parent</artifactId>
+    <version>1.0-SNAPSHOT</version>
+  </parent>
 
   <name>vajr-web Maven Webapp</name>
   <!-- FIXME change it to the project's website -->

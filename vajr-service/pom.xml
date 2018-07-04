@@ -7,6 +7,10 @@
     <groupId>com.baizhi</groupId>
     <artifactId>vajr-service</artifactId>
     <version>1.0-SNAPSHOT</version>
-
+    <parent>
+        <groupId>com.baizhi</groupId>
+        <artifactId>vajr-parent</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
     
 </project>
